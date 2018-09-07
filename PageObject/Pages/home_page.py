@@ -1,8 +1,12 @@
 from selenium import webdriver
+from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 
 #driver = webdriver.Firefo x)
 from PageObject.Pages.locators import Locator
+from PageObject.Pages.registration_page import Register
+
+from PageObject.Pages.product_page import Product
 
 driver = webdriver.Chrome('C:\Drivers\chromedriver.exe')
 driver.get("http://www.automationpractice.com/index.php")
@@ -20,29 +24,32 @@ class Home:
         self.driver = driver
 
 #home page locator defining
-        self.contactus = driver.find_element(*Locator.contactus)
-        self.singin = driver.find_element(*Locator.singin)
-        self.women = driver.find_element(*Locator.women)
-        self.search = driver.find_element(*Locator.search)
-        self.buttonsearch = driver.find_element(*Locator.search)
+        self.contactus = (By.XPATH, "//div[@id='contact-link']")
+        self.singin = (By.XPATH, "//div[@class='header_user_info']")
+        self.women = (By.XPATH, "//*[contains(text(), 'Women')]")
+        self.search = (By.ID, "search_query_top")
+        self.buttonsearch = (By.NAME, "submit_search")
 
         def getcontactus(self):
-            return self.contactus
+            return self.driver.find_element(*self.contactus)
 
         def getsingin(self):
+            self.driver.find_element(*self.singin)
             self.singin.click()
-            return registration_page(self.driver)
+            return Register(self.driver)
 
         def getwomen(self):
-            return self.women
+            return self.driver.find_element(*self.women)
 
         def setsearch(self, product):
+            self.driver.find_element(*self.search)
             self.search.clear()
             self.search.send_keys(product)
 
         def getbuttonsearch(self):
+            self.driver.find_element(*self.search)
             self.buttonsearch.click()
-            return product_page(self.driver)
+            return Product(self.driver)
 
 
 

@@ -2,6 +2,7 @@
 from PageObject.Pages.home_page import driver
 from PageObject.Pages.locators import Locator
 from selenium.webdriver.support.select import Select
+from self import self
 
 
 class Register:

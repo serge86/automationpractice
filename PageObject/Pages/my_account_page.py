@@ -6,8 +6,9 @@ from selenium import webdriver
 
 
 
-class Register():
+class Register:
     def __init__(self, driver):
+        assert isinstance(driver, )
         self.driver = driver
 
 # registration page locators defining
