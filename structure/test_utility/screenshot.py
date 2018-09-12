@@ -5,5 +5,5 @@ class Ss:
         self.driver = driver
 
     def screenshot(self, path):
-        directory = "D:\automationpractice\PageObject\Screenshots"
+        directory = "D:\automationpractice\structure\screenshots"
         self.driver.get_screenshot_as_file(directory+path)

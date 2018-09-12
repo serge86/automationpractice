@@ -7,7 +7,7 @@ class EnvironmentSetup(unittest.TestCase):
 #setUp contains the browser setup attributes
 
     def setUp(self):
-        self.driver = webdriver.Chrome()
+        self.driver = webdriver.Chrome("C:\Drivers.chromedriver.exe")
         print("Run started at :"+str(datetime.datetime.now()))
         print("Chrome Enviroment Set Up")
         print("------------------------------------------")
