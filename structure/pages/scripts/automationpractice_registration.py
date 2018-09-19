@@ -16,16 +16,16 @@ class Automationpractice_registration():
 
 #calling home page object to click on Contcat us Link
         home = Home(driver)
-        if home.getcontactus().is_displayed():
+        if home.get_contact_us().is_displayed():
             print("Contact us Link displaying")
             self.assertTrue(page.home_page_loaded())
             sleep(4)
 
  # calling home page object to click on Sing in Link
         home = Home(driver)
-        if home.getsingin().is_displayed():
+        if home.get_sing_in().is_displayed():
                 print("Sing in Link displaying")
-                home.getsingin().click()
+                home.get_sing_in().click()
                 sleep(4)
 
 #calling registrationn page object to proceed with registration flow

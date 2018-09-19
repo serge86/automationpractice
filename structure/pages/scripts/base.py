@@ -4,11 +4,11 @@ from selenium.webdriver.common.action_chains import ActionChains
 
 
 # this Base class is serving basic attributes for every single page inherited from Page class
-driver = webdriver.Chrome('C:\Drivers\chromedriver.exe')
-driver.get("http://www.automationpractice.com/index.php")
+# driver = webdriver.Chrome('C:\Drivers\chromedriver.exe')
+# driver.get("http://www.automationpractice.com/index.php")
 
 
-class Page(object):    
+class Page(object):
     def __init__(self, driver, base_url='http://automationpractice.com/index.php?'):
         self.base_url = base_url
         self._driver = driver

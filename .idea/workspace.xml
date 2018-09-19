@@ -12,87 +12,81 @@
     <session id="-318271534">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.1" value="3" />
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="68" />
+          <entry key="Makefile" value="3" />
+          <entry key="bat" value="3" />
+          <entry key="py" value="116" />
+          <entry key="rst" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="68" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="116" />
+          <entry key="ReST" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="13" />
-          <entry key="py" value="11472" />
+          <entry key="dummy" value="23" />
+          <entry key="py" value="15867" />
+          <entry key="rst" value="538" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="13" />
-          <entry key="Python" value="11472" />
+          <entry key="PLAIN_TEXT" value="23" />
+          <entry key="Python" value="15867" />
+          <entry key="ReST" value="538" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/structure/pages/home_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            <state relative-caret-position="272">
+              <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
               <folding>
-                <element signature="e#0#30#0" expanded="true" />
-                <marker date="1536762713284" expanded="true" signature="333:338" ph="..." />
-                <marker date="1536762713284" expanded="true" signature="1102:1111" ph="..." />
+                <element signature="e#47#77#0" expanded="true" />
+                <marker date="1537360252679" expanded="true" signature="218:332" ph="..." />
+                <marker date="1537360252679" expanded="true" signature="422:426" ph="..." />
+                <marker date="1537360252679" expanded="true" signature="1695:1704" ph="..." />
+                <marker date="1537360252679" expanded="true" signature="1924:1985" ph="..." />
+                <marker date="1537360252679" expanded="true" signature="2142:2151" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/structure/test_utility/test_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+            <state relative-caret-position="323">
+              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
               <folding>
-                <element signature="e#0#50#0" expanded="true" />
-                <marker date="1536754820882" expanded="true" signature="769:909" ph="..." />
-                <marker date="1536754820882" expanded="true" signature="1134:2312" ph="..." />
+                <element signature="e#0#44#0" expanded="true" />
+                <marker date="1537361147484" expanded="true" signature="529:652" ph="..." />
+                <marker date="1537361147484" expanded="true" signature="1024:1806" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/structure/pages/locators.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" column="59" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="59" />
-              <folding>
-                <marker date="1536317964603" expanded="true" signature="60:61" ph="..." />
-                <marker date="1536317964603" expanded="true" signature="60:62" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/structure/pages/my_account_page.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -100,58 +94,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/structure/pages/registration_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1258">
-              <caret line="77" column="51" selection-start-line="77" selection-start-column="51" selection-end-line="77" selection-end-column="51" />
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
               <folding>
                 <element signature="e#0#43#0" expanded="true" />
-                <marker date="1536754645389" expanded="true" signature="288:292" ph="..." />
-                <marker date="1536754645389" expanded="true" signature="319:328" ph="..." />
-                <marker date="1536754645389" expanded="true" signature="1773:1839" ph="..." />
-                <marker date="1536754645389" expanded="true" signature="1964:2030" ph="..." />
-                <marker date="1536754645389" expanded="true" signature="4067:4268" ph="..." />
-                <marker date="1536754645389" expanded="true" signature="4507:4516" ph="..." />
-                <marker date="1536754645389" expanded="true" signature="4835:4844" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/structure/test_base/environmentsetup.py">
+        <entry file="file://C:/Python36/Lib/site-packages/py/_path/local.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="9" column="68" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-                <marker date="1536572701932" expanded="true" signature="106:107" ph="..." />
-                <marker date="1536572701932" expanded="true" signature="106:108" ph="..." />
-                <marker date="1536572701932" expanded="true" signature="583:584" ph="..." />
-                <marker date="1536572701932" expanded="true" signature="583:588" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/structure/test_utility/screenshot.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/structure/pages/product_page.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#43#0" expanded="true" />
-                <marker date="1536670158104" expanded="true" signature="248:249" ph="..." />
-                <marker date="1536670158104" expanded="true" signature="281:290" ph="..." />
-                <marker date="1536670158104" expanded="true" signature="500:509" ph="..." />
-              </folding>
+            <state relative-caret-position="457">
+              <caret line="667" selection-start-line="667" selection-end-line="667" />
             </state>
           </provider>
         </entry>
@@ -159,13 +115,53 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/structure/pages/scripts/base.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-start-column="2" selection-end-line="7" selection-end-column="59" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
+                <marker date="1537360252575" expanded="true" signature="238:354" ph="..." />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/Python36/Lib/site-packages/_pytest/config/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="376" selection-start-line="376" selection-end-line="376" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/structure/test_utility/conftest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+                <marker date="1537360252629" expanded="true" signature="355:356" ph="..." />
+                <marker date="1537360252629" expanded="true" signature="355:360" ph="..." />
+                <marker date="1537360252629" expanded="true" signature="355:490" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/structure/docs/pages.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/structure/docs/index.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/structure/docs/test_utility.rst">
+          <provider selected="true" editor-type-id="restructured-text-editor" />
         </entry>
       </file>
     </leaf>
@@ -192,11 +188,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HomePage.py" />
-        <option value="$PROJECT_DIR$/PageObject/Pages/base.py" />
-        <option value="$PROJECT_DIR$/PageObject/Pages/New/pages.py" />
-        <option value="$PROJECT_DIR$/PageObject/Pages/New/testCases.py" />
-        <option value="$PROJECT_DIR$/PageObject/Pages/New/testPages.py" />
         <option value="$PROJECT_DIR$/PageObject/Pages/New/users.py" />
         <option value="$PROJECT_DIR$/PageObject/Pages/New/locators.py" />
         <option value="$PROJECT_DIR$/PageObject/Pages/Locators.py" />
@@ -221,18 +212,33 @@
         <option value="$PROJECT_DIR$/PageObject/Pages/locators.py" />
         <option value="$PROJECT_DIR$/PageObject/Pages/registration_page.py" />
         <option value="$PROJECT_DIR$/structure/Pages/registration_page.py" />
-        <option value="$PROJECT_DIR$/structure/test_base/environmentsetup.py" />
         <option value="$PROJECT_DIR$/structure/test_utility/screenshot.py" />
         <option value="$PROJECT_DIR$/structure/pages/scripts/automationpractice_registration.py" />
         <option value="$PROJECT_DIR$/structure/tests/test_1.py" />
-        <option value="$PROJECT_DIR$/structure/pages/product_page.py" />
-        <option value="$PROJECT_DIR$/structure/test_utility/test.py" />
-        <option value="$PROJECT_DIR$/structure/pages/preregistration_page.py" />
+        <option value="$PROJECT_DIR$/structure/test_utility/pytest.py" />
         <option value="$PROJECT_DIR$/structure/pages/my_account_page.py" />
+        <option value="$PROJECT_DIR$/structure/pages/product_page.py" />
+        <option value="$PROJECT_DIR$/structure/pages/preregistration_page.py" />
+        <option value="$PROJECT_DIR$/structure/test_utility/test.py" />
+        <option value="$PROJECT_DIR$/structure/user.py" />
+        <option value="$PROJECT_DIR$/index.rst" />
+        <option value="$PROJECT_DIR$/docs/conf.py" />
+        <option value="$PROJECT_DIR$/docs/structure.rst" />
+        <option value="$PROJECT_DIR$/docs/pages.rst" />
+        <option value="$PROJECT_DIR$/docs/index.rst" />
+        <option value="$PROJECT_DIR$/structure/test_base/environmentsetup.py" />
+        <option value="$PROJECT_DIR$/structure/docs/test_base.rst" />
+        <option value="$PROJECT_DIR$/structure/docs/test.rst" />
+        <option value="$PROJECT_DIR$/structure/docs/tests.rst" />
+        <option value="$PROJECT_DIR$/structure/docs/test_utility.rst" />
+        <option value="$PROJECT_DIR$/structure/docs/index.rst" />
+        <option value="$PROJECT_DIR$/structure/docs/structure.rst" />
+        <option value="$PROJECT_DIR$/structure/docs/pages.rst" />
+        <option value="$PROJECT_DIR$/structure/pages/home_page.py" />
+        <option value="$PROJECT_DIR$/structure/pages/scripts/base.py" />
+        <option value="$PROJECT_DIR$/structure/test_utility/conftest.py" />
         <option value="$PROJECT_DIR$/structure/pages/registration_page.py" />
         <option value="$PROJECT_DIR$/structure/test_utility/test_1.py" />
-        <option value="$PROJECT_DIR$/structure/pages/scripts/base.py" />
-        <option value="$PROJECT_DIR$/structure/pages/home_page.py" />
       </list>
     </option>
   </component>
@@ -281,6 +287,12 @@
               <item name="Automationpractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="automationpractice" type="462c0819:PsiDirectoryNode" />
               <item name="structure" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automationpractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automationpractice" type="462c0819:PsiDirectoryNode" />
+              <item name="structure" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -289,12 +301,6 @@
               <item name="structure" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automationpractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="automationpractice" type="462c0819:PsiDirectoryNode" />
-              <item name="structure" type="462c0819:PsiDirectoryNode" />
-              <item name="test_base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Automationpractice" type="b2602c69:ProjectViewProjectNode" />
@@ -333,7 +339,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_1.test_preregistration">
+  <component name="RunManager" selected="Python tests.pytest for test_1.test_check_search">
     <configuration name="pytest for test_1.test_check_search" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Automationpractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -349,21 +355,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_1.test_create_account" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="Automationpractice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/structure/test_utility" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_1.test_create_account&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="pytest for test_1.test_create_existing_account" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="Automationpractice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -376,6 +367,21 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_1.test_create_existing_account&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_1.test_create_new_account" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Automationpractice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/structure/test_utility" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_1.test_create_new_account&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -410,19 +416,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.pytest for test_1.test_create_account" />
-      <item itemvalue="Python tests.pytest for test_1.test_create_existing_account" />
-      <item itemvalue="Python tests.pytest for test_1.test_check_search" />
       <item itemvalue="Python tests.pytest for test_1.test_invalid_email" />
+      <item itemvalue="Python tests.pytest for test_1.test_create_existing_account" />
+      <item itemvalue="Python tests.pytest for test_1.test_create_new_account" />
+      <item itemvalue="Python tests.pytest for test_1.test_check_search" />
       <item itemvalue="Python tests.pytest for test_1.test_preregistration" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_1.test_preregistration" />
         <item itemvalue="Python tests.pytest for test_1.test_check_search" />
-        <item itemvalue="Python tests.pytest for test_1.test_create_existing_account" />
         <item itemvalue="Python tests.pytest for test_1.test_invalid_email" />
-        <item itemvalue="Python tests.pytest for test_1.test_create_account" />
+        <item itemvalue="Python tests.pytest for test_1.test_create_existing_account" />
+        <item itemvalue="Python tests.pytest for test_1.test_preregistration" />
+        <item itemvalue="Python tests.pytest for test_1.test_create_new_account" />
       </list>
     </recent_temporary>
   </component>
@@ -440,42 +446,70 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_for_test_1_test_invalid_email - 2018.09.12 at 15h 08m 43s.xml">
-      <configuration name="pytest for test_1.test_invalid_email" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_1_test_preregistration - 2018.09.12 at 15h 09m 11s.xml">
-      <configuration name="pytest for test_1.test_preregistration" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_1_test_create_existing_account - 2018.09.12 at 15h 09m 41s.xml">
-      <configuration name="pytest for test_1.test_create_existing_account" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_1_test_create_existing_account - 2018.09.12 at 15h 18m 39s.xml">
-      <configuration name="pytest for test_1.test_create_existing_account" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_1_test_create_existing_account - 2018.09.12 at 15h 19m 14s.xml">
-      <configuration name="pytest for test_1.test_create_existing_account" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_1_test_create_existing_account - 2018.09.12 at 15h 19m 32s.xml">
-      <configuration name="pytest for test_1.test_create_existing_account" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_1_test_create_existing_account - 2018.09.12 at 15h 41m 21s.xml">
-      <configuration name="pytest for test_1.test_create_existing_account" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_for_test_1_test_check_search - 2018.09.12 at 16h 05m 04s.xml">
+    <history-entry file="pytest_for_test_1_test_check_search - 2018.09.19 at 11h 55m 19s.xml">
       <configuration name="pytest for test_1.test_check_search" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_1_test_preregistration - 2018.09.12 at 16h 18m 01s.xml">
+    <history-entry file="pytest_for_test_1_test_create_existing_account - 2018.09.19 at 12h 48m 16s.xml">
+      <configuration name="pytest for test_1.test_create_existing_account" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_1_test_create_existing_account - 2018.09.19 at 12h 49m 59s.xml">
+      <configuration name="pytest for test_1.test_create_existing_account" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_1_test_preregistration - 2018.09.19 at 12h 51m 14s.xml">
       <configuration name="pytest for test_1.test_preregistration" configurationId="tests" />
     </history-entry>
-    <history-entry file="pytest_for_test_1_test_preregistration - 2018.09.12 at 17h 16m 42s.xml">
-      <configuration name="pytest for test_1.test_preregistration" configurationId="tests" />
+    <history-entry file="pytest_for_test_1_test_create_existing_account - 2018.09.19 at 12h 53m 28s.xml">
+      <configuration name="pytest for test_1.test_create_existing_account" configurationId="tests" />
     </history-entry>
+    <history-entry file="pytest_for_test_1_test_check_search - 2018.09.19 at 15h 22m 26s.xml">
+      <configuration name="pytest for test_1.test_check_search" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_1_test_check_search - 2018.09.19 at 15h 23m 35s.xml">
+      <configuration name="pytest for test_1.test_check_search" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_1_test_check_search - 2018.09.19 at 15h 24m 29s.xml">
+      <configuration name="pytest for test_1.test_check_search" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_1_test_invalid_email - 2018.09.19 at 15h 31m 01s.xml">
+      <configuration name="pytest for test_1.test_invalid_email" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_1_test_check_search - 2018.09.19 at 15h 31m 45s.xml">
+      <configuration name="pytest for test_1.test_check_search" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25131717" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19494204" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49789253" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49525815" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49683878" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50474185" side_tool="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19494204" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -484,15 +518,15 @@
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49683878" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.329718" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50474185" side_tool="true" weight="0.329718" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -547,28 +581,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PageObject/Pages/New/users.py" />
-    <entry file="file://$PROJECT_DIR$/PageObject/Pages/New/base.py" />
-    <entry file="file://$PROJECT_DIR$/PageObject/Pages/New/locators.py" />
-    <entry file="file://$PROJECT_DIR$/PageObject/Pages/New/pages.py" />
-    <entry file="file://$PROJECT_DIR$/PageObject/Pages/New/testCases.py" />
-    <entry file="file://$PROJECT_DIR$/PageObject/Pages/New/testPages.py" />
-    <entry file="file://C:/Python36/Lib/unittest/case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="446" column="8" selection-start-line="446" selection-start-column="8" selection-end-line="446" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/structure/test_utility/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/structure/pages/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/structure/pages/scripts/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/structure/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -596,20 +608,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python36/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="276" selection-start-line="276" selection-end-line="276" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/structure/test_utility/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Python36/Lib/site-packages/pluggy/hooks.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
@@ -631,13 +629,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/Python36/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="241" selection-start-line="241" selection-end-line="241" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Python36/Lib/site-packages/_pytest/nose.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-119">
@@ -652,128 +643,221 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/structure/test_utility/pytest.py" />
+    <entry file="file://$PROJECT_DIR$/structure/pages/product_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://C:/Python36/Lib/site-packages/selenium/webdriver/remote/webelement.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1989">
-          <caret line="178" column="44" selection-start-line="178" selection-start-column="44" selection-end-line="178" selection-end-column="44" />
+        <state relative-caret-position="406">
+          <caret line="477" selection-start-line="477" selection-end-line="477" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/selenium/webdriver/common/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="149" selection-start-line="149" selection-end-line="149" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/_pytest/python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="196" selection-start-line="196" selection-end-line="196" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5168">
+          <caret line="319" selection-start-line="319" selection-end-line="319" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-422">
+          <caret line="257" selection-start-line="257" selection-end-line="257" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/structure/pages/preregistration_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-            <marker date="1536754100249" expanded="true" signature="766:834" ph="..." />
-          </folding>
+        <state relative-caret-position="544">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/make.bat" />
+    <entry file="file://$PROJECT_DIR$/Makefile" />
+    <entry file="file://$PROJECT_DIR$/conf.py" />
+    <entry file="file://$PROJECT_DIR$/index.rst" />
+    <entry file="file://$PROJECT_DIR$/docs/structure.rst" />
+    <entry file="file://$PROJECT_DIR$/docs/pages.rst" />
+    <entry file="file://$PROJECT_DIR$/docs/conf.py" />
+    <entry file="file://$PROJECT_DIR$/structure/pages/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structure/pages/my_account_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/structure/pages/locators.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="59" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="59" />
-          <folding>
-            <marker date="1536317964603" expanded="true" signature="60:61" ph="..." />
-            <marker date="1536317964603" expanded="true" signature="60:62" ph="..." />
-          </folding>
+        <state relative-caret-position="697">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/structure/pages/my_account_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/docs/index.rst" />
+    <entry file="file://$PROJECT_DIR$/structure/docs/make.bat">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/structure/pages/registration_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1258">
-          <caret line="77" column="51" selection-start-line="77" selection-start-column="51" selection-end-line="77" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-            <marker date="1536754645389" expanded="true" signature="288:292" ph="..." />
-            <marker date="1536754645389" expanded="true" signature="319:328" ph="..." />
-            <marker date="1536754645389" expanded="true" signature="1773:1839" ph="..." />
-            <marker date="1536754645389" expanded="true" signature="1964:2030" ph="..." />
-            <marker date="1536754645389" expanded="true" signature="4067:4268" ph="..." />
-            <marker date="1536754645389" expanded="true" signature="4507:4516" ph="..." />
-            <marker date="1536754645389" expanded="true" signature="4835:4844" ph="..." />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/structure/docs/Makefile">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/structure/test_base/environmentsetup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="68" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <marker date="1536572701932" expanded="true" signature="106:107" ph="..." />
-            <marker date="1536572701932" expanded="true" signature="106:108" ph="..." />
-            <marker date="1536572701932" expanded="true" signature="583:584" ph="..." />
-            <marker date="1536572701932" expanded="true" signature="583:588" ph="..." />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structure/docs/test_base.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structure/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" column="74" selection-start-line="72" selection-start-column="74" selection-end-line="72" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structure/test_utility/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/structure/test_utility/screenshot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/structure/pages/product_page.py">
+    <entry file="file://$PROJECT_DIR$/structure/test_utility/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structure/docs/structure.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structure/docs/tests.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structure/docs/index.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structure/docs/test_utility.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structure/docs/pages.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/_pytest/assertion/rewrite.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-            <marker date="1536670158104" expanded="true" signature="248:249" ph="..." />
-            <marker date="1536670158104" expanded="true" signature="281:290" ph="..." />
-            <marker date="1536670158104" expanded="true" signature="500:509" ph="..." />
-          </folding>
+        <state relative-caret-position="559">
+          <caret line="234" selection-start-line="234" selection-end-line="234" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/py/_path/local.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="667" selection-start-line="667" selection-end-line="667" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/_pytest/config/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="376" selection-start-line="376" selection-end-line="376" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/structure/pages/scripts/base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-start-column="2" selection-end-line="7" selection-end-column="59" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
+            <marker date="1537360252575" expanded="true" signature="238:354" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structure/test_utility/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <marker date="1537360252629" expanded="true" signature="355:356" ph="..." />
+            <marker date="1537360252629" expanded="true" signature="355:360" ph="..." />
+            <marker date="1537360252629" expanded="true" signature="355:490" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structure/pages/registration_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structure/pages/home_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding>
+            <element signature="e#47#77#0" expanded="true" />
+            <marker date="1537360252679" expanded="true" signature="218:332" ph="..." />
+            <marker date="1537360252679" expanded="true" signature="422:426" ph="..." />
+            <marker date="1537360252679" expanded="true" signature="1695:1704" ph="..." />
+            <marker date="1537360252679" expanded="true" signature="1924:1985" ph="..." />
+            <marker date="1537360252679" expanded="true" signature="2142:2151" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/structure/test_utility/test_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+        <state relative-caret-position="323">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
           <folding>
-            <element signature="e#0#50#0" expanded="true" />
-            <marker date="1536754820882" expanded="true" signature="769:909" ph="..." />
-            <marker date="1536754820882" expanded="true" signature="1134:2312" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2050" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/structure/pages/home_page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-            <marker date="1536762713284" expanded="true" signature="333:338" ph="..." />
-            <marker date="1536762713284" expanded="true" signature="1102:1111" ph="..." />
+            <element signature="e#0#44#0" expanded="true" />
+            <marker date="1537361147484" expanded="true" signature="529:652" ph="..." />
+            <marker date="1537361147484" expanded="true" signature="1024:1806" ph="..." />
           </folding>
         </state>
       </provider>

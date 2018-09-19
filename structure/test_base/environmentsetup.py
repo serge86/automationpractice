@@ -2,7 +2,8 @@ import unittest
 import datetime
 from selenium import webdriver
 
-class EnvironmentSetup(unittest.TestCase):
+
+class EnvironmentSetup:
 
 #setUp contains the browser setup attributes
 

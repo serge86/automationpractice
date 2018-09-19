@@ -14,7 +14,7 @@ class Product:
     def get_url(self, url):
         return self._driver.get_url(url)
 
-    def getsortby(self):
+    def get_sort_by(self):
         return self._driver.find_element(*self.sortby)
 
 

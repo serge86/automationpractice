@@ -10,7 +10,17 @@ Welcome to pap_provied_web's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   structure
+   pages
+   test_base
+   test_utility
+   tests
 
+.. toctree::
+   :maxdepth: 2
+   :caption: pages:
+
+   Pages request
 
 Indices and tables
 ==================

@@ -3,7 +3,13 @@ from selenium.webdriver.common.by import By
 
 from structure.pages.registration_page import Register
 
+
+def Preregister():
+    pass
+
+
 class Preregister:
+
     def __init__(self, driver):
         self._driver = driver
 
@@ -12,18 +18,19 @@ class Preregister:
         self.createanaccount = (By.ID, "SubmitCreate")
         self.errormessage = (By.XPATH, "//div[@class='alert alert-danger']")
 
-    def setemailadress(self, email):
+    def set_email_adress(self, email):
+        self._driver.implicitly_wait(20)
         self._driver.find_element(*self.emailadress).click()
+        self._driver.implicitly_wait(20)
         self._driver.find_element(*self.emailadress).clear()
         self._driver.find_element(*self.emailadress).send_keys(email)
         self._driver.find_element(*self.createanaccount).click()
-        return Register(self)     
+        return Register(self._driver)
 
-    def geterrormessage(self):
+    def get_error_message(self):
         return self._driver.find_element(*self.errormessage)
 
 
-    # def getcreateanaccount(self):
-    #     self.preregister.find_element(*self.createanaccount).click()
-    #     #self.createanaccount.click()
-    #     return Register(self)
+    # preregister = Preregister()
+    #
+    # preregister.set_email_adress()

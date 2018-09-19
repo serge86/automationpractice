@@ -10,10 +10,10 @@ class Account:
         self.myaccount = (By.XPATH, "//*[@class='page-heading'][contains(text(),'My account')]") #"//span[text()='My account']"
         self.mywishlist = (By.XPATH, "//span[text()='My wishlists']")
 
-    def getmyaccount(self):
+    def get_my_account(self):
         return self._driver.find_element(*self.myaccount)
 
-    def getmywishlist(self):
+    def get_my_wishlist(self):
         return self._driver.find_element(*self.mywishlist)
 
     def get_url(self, url):
